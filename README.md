@@ -1,67 +1,57 @@
-=====[ não triados ]=====
-#EXTINF:0 logo=" group-title="FILMES ,AMC
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/120
-#EXTINF:0 logo=" group-title="FILMES ,ARTES 1
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/119
-#EXTINF:0 logo=" group-title="FILMES ,CANAL BRASIL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
-#EXTINF:0 logo=" group-title="FILMES ,FILM & ARTES
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/116
-#EXTINF:0 logo=" group-title="ABERTOS ,FUTURA
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/115
-#EXTINF:0 logo=" group-title="FILMES  ,HBO
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
-#EXTINF:0 logo=" group-title="FILMES ,HBO 2
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
-#EXTINF:0 logo=" group-title="FILMES ,HBO FAMILY
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
-#EXTINF:0 logo=" group-title="FILMES ,HBO MUNDI
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/110
-#EXTINF:0 logo=" group-title="FILMES ,HBO PLUS
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/109
-#EXTINF:0 logo=" group-title="FILMES ,HBO POP
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/108
-#EXTINF:0 logo=" group-title="FILMES ,HBO SIGNATURE
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
-#EXTINF:0 logo=" group-title="FILMES ,HBO XTREME
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/106
-#EXTINF:0 logo=" group-title="FILMES ,HBO+
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/114
-#EXTINF:0 logo=" group-title="FILMES ,LIFETIME
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/105
-#EXTINF:0 logo=" group-title="FILMES ,OFF
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/104
-#EXTINF:0 logo=" group-title="FILMES ,PARAMOUNT CHANNEL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/103
-#EXTINF:0 logo=" group-title="FILMES ,PRIME BOX BRASIL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/102
-#EXTINF:0 logo=" group-title="FILMES ,SONY CHANNEL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/117
-#EXTINF:0 logo=" group-title="FILMES ,STAR CHANNEL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/101
-#EXTINF:0 logo=" group-title="FILMES ,STUDIO UNIVERSAL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/100
-#EXTINF:0 logo=" group-title="FILMES ,TBS
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/99
-#EXTINF:0 logo=" group-title="FILMES ,TCM
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/98
-#EXTINF:0 logo=" group-title="FILMES ,TELECINE ACTION
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/97
-#EXTINF:0 logo=" group-title="FILMES ,TELECINE CULT
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/96
-#EXTINF:0 logo=" group-title="FILMES ,TELECINE FUN
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/95
-#EXTINF:0 logo=" group-title="FILMES ,TNT NOVELA
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
-#EXTINF:0 logo=" group-title="ABERTOS  ,TRU TV
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/91
-#EXTINF:0 logo=" group-title="XXcanal ,#USA NETWORK
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/90
-#EXTINF:0 logo=" group-title="FILMES ,WARNER CHANNEL
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/89
-#EXTINF:0 logo=" group-title="FILMES ,TELECINE PIPOCA
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/94
-#EXTINF:0 logo=" group-title="FILMES  ,TELECINE PREMIUM
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
-#EXTINF:0 logo=" group-title="FILMES  ,TELECINE TOUCH
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/92
+=====[ TV ]=====
+#EXTM3U
+#EXTINF:0,GLOBO 1
+http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS ROUBADOS",GLOBO SP
+http://hls1.sua.tv/live/globosphd/s.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS ROUBADOS",GLOBO SP2
+http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS ROUBADOS",BAND SP
+http://138.255.0.30/BAND/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS ROUBADOS",BAND FHD
+http://138.255.0.30/BAND/tracks-v1a1/mono.m3u8
+========Filmes=======
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",STAR CHANNEL 
+http://cdn2.connectbr.com.br/Star/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",FX
+http://64.31.40.14:14043
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",A&E
+http://64.31.40.14:14002
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",AMC
+http://201.20.127.2:2086/live/AMC/360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",AMC HD
+http://hls1.sua.tv/live/amchd/s.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",CINEMAX UHD
+http://64.31.40.14:14031
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",MEGAPIX FHD
+http://64.31.40.14:14048
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",TELECINE ACTION
+http://64.31.40.14:14056
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",TELECINE 2
+http://178.162.197.172:2052/live/cprimemain-rHA2eo2z6V/E2r6aYhDPG/7687.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",TELECINE PIPOCA
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",TELECINE PREMIUM
+
+=======HBO========
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",HBO
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES",HBO PLUS 
+http://201.20.127.2:2086/live/HBOPLUS/360p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES", HBO 
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES", HBO 2 
+
+==============
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES", FX FHD
+http://170.254.18.106/FX/tracks-v2a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES", UNIVERSAL CHANNEL UHD
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES&SERIES", SPACE HD
+
+C
